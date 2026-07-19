@@ -12,9 +12,12 @@
     "check": "biome check --write ."
   },
   "dependencies": {
+    "@radix-ui/react-collapsible": "^1.1.16",
     "lucide-react": "^1.25.0",
     "react": "^19.2.7",
-    "react-dom": "^19.2.7"
+    "react-dom": "^19.2.7",
+    "tailwind-merge": "^3.6.0",
+    "tailwind-variants": "^3.2.2"
   },
   "devDependencies": {
     "@biomejs/biome": "2.5.4",
